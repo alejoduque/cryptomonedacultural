@@ -1,4 +1,4 @@
 # El potencial cultural del Blockchain \(Cadena de Bloques\)
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Vemos hoy como gobiernos locales y hasta Paises implementan el Blockchain para la validacion de intercambios. Ya no solo monetarios \(bitcoin\) pero tambien para la contratacion, reportes, contrataciones y hasta para retribuir 
 
