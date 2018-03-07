@@ -1,3 +1,5 @@
+# ![](/assets/cadenadebloques.png)
+
 # El potencial cultural del Blockchain \(Cadena de Bloques\)
 
 #### Vemos hoy como gobiernos locales y hasta paises implementan a partir del Blockchain \(cadenas seguras/encriptadas, anonimas y trazables\) la validacion inmutable de intercambios; ya no solo monetarios \(Bitcoin\* y similares\) pero tambien para reportes, contrataciones y para retribuir comunidades que operan desde una horizontalidad organizacional y el hasta para retribuir el trabajo voluntario.
