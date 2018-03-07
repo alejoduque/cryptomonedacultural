@@ -14,7 +14,7 @@
 
 #### $1.200.000
 
-#### Este incluye un ejercicio practico usando python para la creacion de una Cadena de Bloques, el planteamiento de una Cripto Moneda Cultural partiendo del capital cultural que promueven la asociacion de salas de cine, conciertos, teatro y similares. Dirigido por 3 personas. 2 provenientes de Medellin y una local.
+#### Este incluye un ejercicio practico usando python para la creacion de una Cadena de Bloques, el planteamiento de una Cripto Moneda Cultural partiendo de un capital cultural que promueva asistencia via la asociacion de salas de cine, conciertos, teatro, conferencias y hasta talleres. La premisa sera: Como facilitar el acceso a la cultura a personas que normalmente estan al margen, como dinamizar socialmente a un grupo para que pueda facilitar el acceso de otros a eventos culturales. El taller sera dirigido por 3 personas. 2 provenientes de Medellin y una local.
 
 ### Gastos por desplazamiento, hospedaje y alimentación de 2 personas que viajan desde Medellín por dos noches.
 
