@@ -1,3 +1,5 @@
+
+
 [https://arxiv.org/pdf/1801.03998.pdf](https://arxiv.org/pdf/1801.03998.pdf)
 
 [https://www.facebook.com/worldeconomicforum/videos/10155183424246479/](https://www.facebook.com/worldeconomicforum/videos/10155183424246479/)
@@ -10,5 +12,11 @@ http://networkcultures.org/moneylab/2018/01/25/link-list-on-bitcoin-blockchain-d
 
 * [https://github.com/dvf/blockchain](https://github.com/dvf/blockchain)
 
+
+### Explicaciones
+
+#### Practica de Hash, Block, Blockchain, Distributed, Tokens, Coinbase
+
+[https://anders.com/blockchain/](https://anders.com/blockchain)
 
 
