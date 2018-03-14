@@ -1,0 +1,32 @@
+* ¿Cómo llevamos las cuentas?
+Se empieza a anotar transacciones en un cuaderno, hay que confiar en quien lleva el cuaderno
+Protocolo:
+ - cualquiera puede agregar notas en el cuaderno
+ - cada mes se liquida
+ - 
+* ¿si cualquiera puede escribir como nos aseguramos que alguien escriba en nombre de otro ?
+** ¿Firmas digitales?
+ es una función que toma parte del mensaje firmado y de la clave secreta, una firma es igual para todos los documentos, una firma digital es diferente para todos los documentos
+para verificar la validez del uso de la clave secreta se usa la clave publica (TRUE/FALSE) posibilidades de encontrala 2^256
+** ¿Y si copia la transaccion con la firma varias veces?
+*** Un ID único para cada transacción?
+Protocolo:
+ - cualquiera puede agregar notas en el cuaderno
+ - cada mes se liquida
+ - solo transacciones firmadas son validas
+ - 
+
+*  la idea de liquidar necesita que todos tengan capacidad de pago, ¿si alguien gasta más de lo que tiene?
+
+Protocolo:
+ - cualquiera puede agregar notas en el cuaderno
+ - solo transacciones firmadas son validas
+ - No puede gastar más de lo que tiene
+
+ - 
+* ¿Si quitamos la confianza?
+Se pasa el cuaderno a digital y se da copia a cada participante
+* ¿Existe una forma equivalente a la firma pero digital?
+* ¿Cómo se puede evitar que se altere el cuaderno?
+** Proof of work
+
