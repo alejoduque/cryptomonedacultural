@@ -1,0 +1,32 @@
+
+* ¿Qué problema resuelve una criptomoneda cultural?
+** ¿Financiación?
+**** ¿Crowfunding? 
+     Un grupo podría pedir fondos que se mantendrían en un escrow o smar contract, en caso de no lograr la meta los fondos se retornaria a los inversionistas.
+     Ej: Ofertar un concierto para x fecha en x zona, los interesados aportan al contrato que tiene condicionales que pueden ser verificados en el código
+** ¿Disminuir comisiones de intermediarios?
+*** ¿Tu Boleta?
+    ¿Se podría evitar la comisión que cobran intermediarios como Tu Boleta por velar por la devolución del dinero en caso que el concierto se cancele?
+* ¿Adopción de la cryptoeconomía como intercambio de valor en el sector cultural? 
+** ¿Adopción histórica de intangibles?
+*** ¿Aplausos?
+*** ¿Seguidores?
+*** ¿Aceptación?
+*** ¿Representatividad?
+** ¿Aceptación como forma de pago?
+   En el momento en que alguien necesite la criptomoneda y no pueda hacer minería estaría dispuesto a intercambiar Fiat.
+** ¿Qué tipo de smartContract se pueden hacer?
+** ¿Ejemplos de Ivy?
+These contracts demonstrate the following conditions supported by Bitcoin Script:
+*** ¿Requiere una firma de una cuenta particular(clave publica)? Requiring a signature corresponding to a prespecified public key (see LockWithPublicKey)
+**** ¿Un productor pone los fondos para el pago del sonido, libera los fondos cuando el sonido esta instalado y funcional?
+**** ¿Un fan pone los fondos para recibir una mercancia del grupo, libera los fondos cuando recibe la mercancía a satisfacción?
+*** ¿Requerir múltiples firmas? Requiring M signatures corresponding to any of N prespecified public keys (see LockWithMultisig)
+*** ¿Verificar un hash?Checking that the cryptographic hash of a string or public key is equal to a prespecified hash (see LockWithPublicKeyHash, RevealCollision, RevealPreimage, RevealFixedPoint)
+**** ¿Solo quien demuestre la poseción del hash de la versión original de una imagen puede liberar los fondos en una subasta de coleccionistas ?
+*** ¿Esperar un tamaño de bloque, o un tiempo de bloque? Waiting until after a specified block height or block time (see LockUntil, TransferWithTimeout
+**** ¿Liberar fondos poco a poco para mantener el día a día de un artista, como un mecenas?
+*** ¿Esperar determinado tiempo de presencia en el blockchain? Waiting until the contract has been on the blockchain for longer than a specified duration (see LockDelay, EscrowWithDelay), VaultSpend)
+
+* ¿Nombres?
+** ¿Cryptural?
