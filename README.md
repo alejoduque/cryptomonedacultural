@@ -24,6 +24,8 @@
 
 ### Total: 2'200.000
 
+
+
 Referencia de proyectos locales \(Bogota\):  
 [http://www.bogota.gov.co/temas-de-ciudad/educacion/con-tecnologia-tic-estudiantes-de-colegios-elegiran-a-sus-personeros](http://www.bogota.gov.co/temas-de-ciudad/educacion/con-tecnologia-tic-estudiantes-de-colegios-elegiran-a-sus-personeros)
 

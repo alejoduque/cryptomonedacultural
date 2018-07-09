@@ -1,3 +1,7 @@
+https://www.chainshot.com/challenges/5b3afd70d9f99763e5c4b4fe/
+
+
+
 [https://arxiv.org/pdf/1801.03998.pdf](https://arxiv.org/pdf/1801.03998.pdf)
 
 [https://www.facebook.com/worldeconomicforum/videos/10155183424246479/](https://www.facebook.com/worldeconomicforum/videos/10155183424246479/)
@@ -14,15 +18,17 @@
 
 #### Practica de Hash, Block, Blockchain, Distributed, Tokens, Coinbase
 
-[https://anders.com/blockchain/](https://anders.com/blockchain)  
+[https://anders.com/blockchain/](https://anders.com/blockchain)
 
-
-### Other Means Principle https://github.com/libbitcoin/libbitcoin/wiki/Other-Means-Principle
-
+### Other Means Principle [https://github.com/libbitcoin/libbitcoin/wiki/Other-Means-Principle](https://github.com/libbitcoin/libbitcoin/wiki/Other-Means-Principle)
 
 ### ¿Escribir Smart Contracts?
+
 #### Bitcoin
-##### HowTo [https://blog.chain.com/ivy-for-bitcoin-a-smart-contract-language-that-compiles-to-bitcoin-script-bec06377141a][https://blog.chain.com/ivy-for-bitcoin-a-smart-contract-language-that-compiles-to-bitcoin-script-bec06377141a]
-##### Playground (Ivi) [https://ivy-lang.org/bitcoin](https://ivy-lang.org/bitcoi)
+
+##### HowTo \[[https://blog.chain.com/ivy-for-bitcoin-a-smart-contract-language-that-compiles-to-bitcoin-script-bec06377141a\]\[https://blog.chain.com/ivy-for-bitcoin-a-smart-contract-language-that-compiles-to-bitcoin-script-bec06377141a](https://blog.chain.com/ivy-for-bitcoin-a-smart-contract-language-that-compiles-to-bitcoin-script-bec06377141a][https://blog.chain.com/ivy-for-bitcoin-a-smart-contract-language-that-compiles-to-bitcoin-script-bec06377141a)\]
+
+##### Playground \(Ivi\) [https://ivy-lang.org/bitcoin](https://ivy-lang.org/bitcoi)
+
 
 
