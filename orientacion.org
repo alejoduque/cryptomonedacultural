@@ -30,3 +30,9 @@ These contracts demonstrate the following conditions supported by Bitcoin Script
 
 * ¿Nombres?
 ** ¿Cryptural?
+* Aprendizajes de Seiche.one
+** ¿Se puede establecer una soberanía sobre un activo cultural? ¿de quién son los museos? ¿de quién podrían ser?
+** ¿Qué diferencia hay entre una soberanía y una jurisdicción?
+** ¿Se puede modelar la topología de un activo cultural?
+** ¿Se pueden administrar los procedimientos tecno-legales entre las instituciones?
+
