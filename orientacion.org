@@ -35,4 +35,12 @@ These contracts demonstrate the following conditions supported by Bitcoin Script
 ** ¿Qué diferencia hay entre una soberanía y una jurisdicción?
 ** ¿Se puede modelar la topología de un activo cultural?
 ** ¿Se pueden administrar los procedimientos tecno-legales entre las instituciones?
+** ¿Se puede definir "ciudadanía" en terminos de acceso y movilidad?
+** ¿Se pueden entonces entender los conflictos de ciudadanía como conflictos sobre la infraestructura que permite esos flujos?
+** ¿Podría verse la infraestructura de los programas de becas y estímulos como un sistema de soberanías complejas? 
+*** ¿Cómo puede un sistema de registros inmutables (blockchain)  aportar a la forma como accedemos y nos "movilizamos"  en los proyectos culturales?
+*** ¿Qué implicaciones tiene para los proyectos culturales un protocolo de intercambio de valor con capacidades de tantas subdivisiones, ej:satoshis?
+*** ¿Cómo pueden implementarse contratos "administrados" por código (smart contracts) en el eltramado cultural? 
+**** El Contra-Rider 
+     Se da el caso de un grupo musical que tiene unos requerimientos técnicos descritos en un rider técnico que se adjunta a la contratación, en algunos casos el artista pide un anticipo condicionado al complimiento del rider, enviar ese anticipo requiere un estado de "confianza" de parte del promotor y varios gastos asociados a la transferencia de fiat, en este caso, poner los fondos en un e-scrow podría liberar los fondos unicamente cuando el artista verifique que se cumple en contrarider.
 
