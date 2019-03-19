@@ -33,3 +33,4 @@ Referencia de proyectos locales \(Bogota\):
 ### Referencias:
 
 http://martinnadal.eu/bitcoin_traces/
+https://0b673cce.xyz/
