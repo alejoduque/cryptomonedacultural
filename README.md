@@ -32,7 +32,7 @@ Referencia de proyectos locales \(Bogota\):
 
 ### Referencias:
 
-http://martinnadal.eu/bitcoin_traces/
-https://0b673cce.xyz/
-https://github.com/DECODEproject/dddc-pilot-contracts
-http://radicle.xyz/blog/index.html
+http://martinnadal.eu/bitcoin_traces/  
+https://0b673cce.xyz/  
+https://github.com/DECODEproject/dddc-pilot-contracts  
+http://radicle.xyz/blog/index.html  
