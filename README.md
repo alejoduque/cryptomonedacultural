@@ -36,3 +36,5 @@ http://martinnadal.eu/bitcoin_traces/
 https://0b673cce.xyz/  
 https://github.com/DECODEproject/dddc-pilot-contracts  
 http://radicle.xyz/blog/index.html  
+https://medium.com/@mentapurpura/introducing-the-cryptoeconomic-tarot-v-1-0-ec0e996fb210 . 
+http://radicle.xyz/blog/index.html  
