@@ -6,7 +6,7 @@
 
 \*Bitcoin está valorado hoy en casi 100 billones de dólares. Existen 14 millones de monederos que ayudan a validar y hacer inmutables las tablas o índices de intercambios que se dan en dicha red.
 
-#### Pretendemos realizar una Hacktividad en Plataforma Bogotá para estudiar y sentar las bases que nos permitan concebir la Cadena de Bloques \(Blockchain\) no solo como una herramienta financiera. Pero si, como dispositivo o artefacto cultural, ya que sus implicaciones en tanto lo social y económico afectan y dan forma actualmente a sistemas de organización social y política.
+#### Pretendemos realizar un par de sesiones para estudiar y sentar las bases que nos permitan concebir la Cadena de Bloques \(Blockchain\) no solo como una herramienta financiera. Pero si, como dispositivo o artefacto cultural, ya que sus implicaciones en tanto lo social y económico afectan y dan forma actualmente a sistemas de organización social y política.
 
 ## Fechas tentativas:
 
