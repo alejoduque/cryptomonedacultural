@@ -16,7 +16,11 @@
 
 #### $1.200.000
 
-#### Este incluye un ejercicio práctico usando python para la creación de una Cadena de Bloques, el planteamiento de una Cripto Moneda Cultural partiendo de un capital cultural que promueva asistencia vía la asociación de salas de cine, conciertos, teatro, conferencias y hasta talleres. Partimos de la premisa: Cómo dinamizar socialmente a un grupo para que sus acciones al hacer parte de una Cadena de Bloques \(Blockchain\) permitan facilitar el acceso a la cultura a personas que normalmente están al margen? Para acercar públicos y salas? Para abrir espacios en esos otros eventos culturales?. El taller será dirigido por 3 personas. 2 provenientes de Medellín y una local.
+#### Este incluye un ejercicio práctico usando python para la creación de una Cadena de Bloques, el planteamiento de una Cripto Moneda Cultural partiendo de un capital cultural que promueva asistencia vía la asociación de salas de cine, conciertos, teatro, conferencias y hasta talleres. 
+
+#### Partiendo de un capital cultural que promueva asistencia vía la asociación de salas de cine, de conciertos o teatros con espacios donde se celebran conferencias y talleres. Partimos de la premisa: 
+
+#### Cómo dinamizar socialmente a un grupo para que sus acciones culturales puedan hacer parte de una Cadena de Bloques (Blockchain) que sirva para acercar públicos y salas? Y abrir espacios en esos otros eventos culturales.
 
 
 Referencia de proyectos locales \(Bogota\):  
